@@ -120,7 +120,7 @@ dist
 
 # rescript files
 .merlin
-/lib
+lib
 *.bs.js
 .bsb.lock
 
